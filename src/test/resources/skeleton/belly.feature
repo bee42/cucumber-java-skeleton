@@ -9,4 +9,4 @@ Scenario Outline: a few cukes
 	|amount	|hours	|reaktion	|
 	|100	  |2		  |\"growl\"	|
 	|200	  |4		  |\"ache\"  |
-	|300 	  |5		  |\"strongly ache\"	  |
+	|3000 	  |5		  |\"strongly ache\"	  |
